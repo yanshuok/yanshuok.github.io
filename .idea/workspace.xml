@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="208" column="41" selection-start-line="208" selection-start-column="41" selection-end-line="208" selection-end-column="41" />
+            <state relative-caret-position="233">
+              <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -92,6 +92,11 @@
               <item name="yanshuo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="yanshuo.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yanshuo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanshuo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -106,11 +111,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\git\yanshuo.github.io\files" />
+      <recent name="D:\Study\PHD\startbootstrap-resume-gh-pages\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Study\PHD\startbootstrap-resume-gh-pages\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study\PHD\startbootstrap-resume-gh-pages\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -140,18 +146,19 @@
       <workItem from="1568031566871" duration="636000" />
       <workItem from="1568166083490" duration="101000" />
       <workItem from="1568188387056" duration="8000" />
-      <workItem from="1568706605037" duration="473000" />
+      <workItem from="1568706605037" duration="1687000" />
+      <workItem from="1568770093465" duration="1822000" />
+      <workItem from="1568817777025" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12186000" />
+    <option name="totallyTimeSpent" value="15270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="208" column="41" selection-start-line="208" selection-start-column="41" selection-end-line="208" selection-end-column="41" />
+        <state relative-caret-position="233">
+          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
         </state>
       </provider>
     </entry>
